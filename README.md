@@ -25,7 +25,11 @@
 
 ## Documentation
 - **ROS**
+  - [Tutorial](http://wiki.ros.org/ROS/Tutorials)
   - [Navigation](http://wiki.ros.org/navigation#Tutorials)
+
+- **Turtlesim**
+  - [Documentation](http://wiki.ros.org/turtlesim)
 
 - **Joystick**
   - [Teleop-Joystick](http://wiki.ros.org/joy/Tutorials/WritingTeleopNode)
