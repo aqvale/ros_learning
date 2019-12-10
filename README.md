@@ -1,8 +1,9 @@
 # ROS GUIDE 🤖 🚁 🚀 :turtle: 
 
-## Requirements
+## Requirements :heavy_check_mark:
 
 - [Linux](https://ryanstutorials.net/linuxtutorial/) 18.04 LTS
+- [ROS-Melodic](http://wiki.ros.org/melodic)
 
 ## Quick Start 🏁
 - **Things to install**
@@ -17,7 +18,7 @@
     - [Plus for Trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf?hl=pt-BR)
     - [Card colors for trello](https://chrome.google.com/webstore/detail/trello-cards-optimizer/ipbjjbpopodbnjbjnneakhcppdocpelg?hl=pt-BR)
 
-## Documentation :books:
+## Documentation :closed_book:	
 - **ROS**
   - [Documentation](http://wiki.ros.org/Documentation)
   - [Tutorial](http://wiki.ros.org/ROS/Tutorials)
@@ -33,7 +34,7 @@
   - [Documentation](http://wiki.ros.org/Robots/Husky)
   - [Simulation](http://wiki.ros.org/husky_gazebo/Tutorials/Simulating%20Husky)
 
-## Community
+## Community :earth_americas:
 
 - [Forum](https://discourse.ros.org/)
 
