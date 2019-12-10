@@ -36,7 +36,7 @@
 
 ## Community
 
-- [Forum](http://www.forum.coppeliarobotics.com)
+- [Forum](https://discourse.ros.org/)
 
 ## Thanks
 Thanks you [Senai-Cimatec](http://www.senaicimatec.com.br/) that allowed me to perform this test which provided knowing and learning how to use robotic automation tools. I would like to improve and learn a lot more in this area of study.
