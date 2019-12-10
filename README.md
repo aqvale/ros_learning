@@ -24,6 +24,11 @@
   - [Tutorial](http://wiki.ros.org/ROS/Tutorials)
   - [Navigation](http://wiki.ros.org/navigation#Tutorials)
 
+- **TF**
+  - [Introduction](http://wiki.ros.org/tf/Tutorials/Introduction%20to%20tf)
+  - [Functionality](http://wiki.ros.org/tf)
+
+
 - **Turtlesim**
   - [Documentation](http://wiki.ros.org/turtlesim)
 
@@ -37,6 +42,7 @@
 ## Community :earth_americas:
 
 - [Forum](https://discourse.ros.org/)
+- [Answers](https://answers.ros.org/questions/)
 
 ## Thanks
 Thanks you [Senai-Cimatec](http://www.senaicimatec.com.br/) that allowed me to perform this test which provided knowing and learning how to use robotic automation tools. I would like to improve and learn a lot more in this area of study.
