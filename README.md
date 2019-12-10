@@ -1,11 +1,5 @@
 # ROS GUIDE 🤖 🚁 🚀 :turtle: 
 
-## ROS Documentation
-
-**ROS Documentation** [ROS](http://wiki.ros.org/Documentation). 
-
-[![Supported Python versions](https://img.shields.io/pypi/pyversions/instabot-py.svg)](https://www.python.org/)
-
 ## Requirements
 
 - [Linux](https://ryanstutorials.net/linuxtutorial/) 18.04 LTS
@@ -25,6 +19,7 @@
 
 ## Documentation
 - **ROS**
+  - [Documentation](http://wiki.ros.org/Documentation)
   - [Tutorial](http://wiki.ros.org/ROS/Tutorials)
   - [Navigation](http://wiki.ros.org/navigation#Tutorials)
 
