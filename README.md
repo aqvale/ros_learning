@@ -17,8 +17,9 @@
   - [VsCode](https://code.visualstudio.com/download)
   - [ROS-Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
   - [Git](https://linuxize.com/post/how-to-install-git-on-ubuntu-18-04/)
-  - **Latex**: `sudo apt install texlive-full` - Extensão vscode: `DoxyGen`
-  - [Trello](https://trello.com/) - Extensão for Chrome: 
+  - **Latex**: `sudo apt install texlive-full` 
+    - Extension vscode: `DoxyGen`
+  - [Trello](https://trello.com/) - Extension for Chrome: 
     - [Plus for Trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf?hl=pt-BR)
     - [Card colors for trello](https://chrome.google.com/webstore/detail/trello-cards-optimizer/ipbjjbpopodbnjbjnneakhcppdocpelg?hl=pt-BR)
 
